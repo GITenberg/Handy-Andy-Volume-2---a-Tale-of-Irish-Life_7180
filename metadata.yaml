@@ -1,0 +1,26 @@
+_repo: Handy-Andy-Volume-2---a-Tale-of-Irish-Life_7180
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lover, Samuel
+    alias: Lover, S. (Samuel)
+    birthdate: 1797
+    deathdate: 1868
+    gutenberg_agent_id: '2365'
+    url: http://www.gutenberg.org/2009/agents/2365
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Lover
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7180'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ireland -- Fiction'
+- GITenberg
+title: Handy Andy, Volume 2 — a Tale of Irish Life
+url: http://www.gutenberg.org/ebooks/7180
